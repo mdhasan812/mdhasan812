@@ -1,6 +1,6 @@
 ![I am mdhasan812](https://github.com/mdhasan812/mdhasan812/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Md Nazmul Hasn</h1>
+<h1 align="center">Hi 👋, I'm Md Nazmul Hasan</h1>
 <h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
 
 
