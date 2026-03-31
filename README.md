@@ -61,7 +61,7 @@ Skills: C/ Tailwind/ REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=mdhasan812&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdhasan812/Java-Project)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=mdhasan812&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdhasan812/mdhasan812/blob/main/README.md)
 
 
 <p align="left">
@@ -86,7 +86,7 @@ Skills: C/ Tailwind/ REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Nazmul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdhasan812&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Nazmul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdhasan812&custom_title=Nazmul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
