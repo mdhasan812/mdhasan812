@@ -22,7 +22,7 @@ Skills: C/ Tailwind/ REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, TailwindCSS, ReactJS, NextJS**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **mdhasannazmul9@gmail.com**
 
 - 📄 All About Me:
 
@@ -86,7 +86,7 @@ Skills: C/ Tailwind/ REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdhasan812&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Nazmul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdhasan812&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
